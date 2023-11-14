@@ -3,7 +3,8 @@
 
 Heart Disease Prediction
 This project aims to build machine learning models using Random Forest, K-Nearest Neighbors (KNN),
-and Naive Bayes algorithms to predict  heart disease based on their medical attributes.
+and Naive Bayes algorithms to predict  heart disease based on their medical attributes. The data set used here is from kaggle
+
 
 
 Models
